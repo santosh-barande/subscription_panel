@@ -54,7 +54,7 @@
 
 ###### Request Param: companyId -> long company id
 
-###### Sample JSON Response:
+###### Sample JSON Response::
 
 	{
 	    "id":1,
